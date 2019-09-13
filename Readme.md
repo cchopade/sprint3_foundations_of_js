@@ -38,3 +38,5 @@ After this sprint, you will have an understanding of
  - Using external libraries like jQuery, Lodash.
 
 ### Project
+
+Let’s use what we’ve learned and take a chance to continue practicing DOM manipulation - dynamically rendering a simple pizza chain restaurant homepage. You will be replicating the website similar to https://www.pizzapizza.ca/

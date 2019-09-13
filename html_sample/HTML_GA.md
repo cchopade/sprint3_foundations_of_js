@@ -62,25 +62,16 @@ Must Know
 
 <div class="lesson-content__panel" markdown="1">
 
-Can embed relevant youtube videos. Prescribe the exact time to watch the video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UB1O30fR-EE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  1. Do the [Codecademy HTML course](https://www.codecademy.com/learn/learn-html) (only the free stuff) for a healthy baseline understanding of HTML.  Keep track of the most commonly used elements in HTML. [Estimated Time: 4hrs]
+- Do the [Codecademy HTML course](https://www.codecademy.com/learn/learn-html) (only the free stuff) for a healthy baseline understanding of HTML.  Keep track of the most commonly used elements in HTML. [Estimated Time: 4hrs]
 
-CodePen Assignment
+- Once you have gone through the above course, do this small assignment on CodePen. This assignment will take you 10 minutes to complete. If you are unable to do this assignment, then go back to the resource and revise your concepts.
+CodePen Assignment: https://codepen.io/lambdaschool/pen/RyVowM/
 
-Now that you have gone through the above course, do this small assignment on CodePen. This assignment will take you 10 minutes to complete. If you are unable to do this assignment, then go back to the resource and revise your concepts.
 
-<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="html,result" data-user="lambdaschool" data-slug-hash="RyVowM" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Lesson 1 - Intro to Web Development">
-  <span>See the Pen <a href="https://codepen.io/lambdaschool/pen/RyVowM/">
-  Lesson 1 - Intro to Web Development</a> by Lambda School (<a href="https://codepen.io/lambdaschool">@lambdaschool</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+- Next have a look at all the different elements of HTML that make up your general webpage. The best reference is MDN documentation. Have a look [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning) [Estimated Time: 6hrs]
 
-2. Next have a look at all the different elements of HTML that make up your general webpage. The best reference is MDN documentation. Have a look [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning) [Estimated Time: 6hrs]
-
-3. Still have some questions on HTML. Refer to [Shay Howe's HTML tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/). [Estimated Time: 10 hrs]   
+- Still have some questions on HTML. Refer to [Shay Howe's HTML tutorial](https://learn.shayhowe.com/html-css/building-your-first-web-page/). [Estimated Time: 10 hrs]   
 </div>
 
 
@@ -90,14 +81,8 @@ This section contains helpful links to other content. It isn't required, so cons
 * [W3 Schools' Elements of HTML](https://www.w3schools.com/html/html_elements.asp)
 * [OverAPI's HTML Cheat Sheet](http://overapi.com/html)
 
-More Practise Code Pens
+More Practise Code Pens: https://codepen.io/zuraizm/pen/vGDHl/
 
-<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="css,result" data-user="zuraizm" data-slug-hash="vGDHl" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Very Simple Slider">
-  <span>See the Pen <a href="https://codepen.io/zuraizm/pen/vGDHl/">
-  Very Simple Slider</a> by zuraiz (<a href="https://codepen.io/zuraizm">@zuraizm</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ### Project Tasks
 

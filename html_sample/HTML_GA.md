@@ -47,9 +47,14 @@ HTML is the markup that contains all the actual stuff that a web page has. All t
 
 <hr>
 
-### Topic 1: HTML Basics
+### Concept 1: HTML Basics
 
-### Learning Outcomes
+### Introduction
+HTML is the markup that contains all the actual stuff that a web page has. All the text on this page you're reading right now lives inside HTML tags that tell your browser how to order the content on the page. Go on, right click any element on the page and choose "Inspect Element" to open up your browser's Developer Tools and it will show you the structure of the page.
+
+
+
+### Learning Objectives
 To consider yourself having learnt and applied HTML these are the basic questions you should have the answers to. If you don't have the answers to these questions, then revisit the material.
 
 Must Know
@@ -58,7 +63,7 @@ Must Know
 * What are elements?
 * What are tags?
 
-### Learning Tasks
+### What you must do
 
 <div class="lesson-content__panel" markdown="1">
 
@@ -82,6 +87,18 @@ This section contains helpful links to other content. It isn't required, so cons
 * [OverAPI's HTML Cheat Sheet](http://overapi.com/html)
 
 More Practise Code Pens: https://codepen.io/zuraizm/pen/vGDHl/
+
+### Knowledge Check - Quiz
+
+1. Choose the correct HTML element for the largest heading:
+ - `<head>`
+ - `<h1>`
+ - `<body>`
+
+2. Which of these elements are all <table> elements?
+ - ` <thead><body><tr>`
+ - ` <table><tr><td>`
+ - ` <table><tr><tt>`
 
 
 ### Project Tasks
